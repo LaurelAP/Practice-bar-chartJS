@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var TITLE = 'LAP's Practice English Learners by Select School Districts in CT, 2018-19';
+  var TITLE = 'English Learners by Select School Districts in CT, 2018-19';
 
   // `false` for vertical column chart, `true` for horizontal bar chart
   var HORIZONTAL = false;
